@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CALENDER", "CALENDER\CALENDER.csproj", "{4A1C11BF-4A1A-4E84-8A37-9F49F8A164B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A1C11BF-4A1A-4E84-8A37-9F49F8A164B4}.Debug|x86.ActiveCfg = Debug|x86
+		{4A1C11BF-4A1A-4E84-8A37-9F49F8A164B4}.Debug|x86.Build.0 = Debug|x86
+		{4A1C11BF-4A1A-4E84-8A37-9F49F8A164B4}.Release|x86.ActiveCfg = Release|x86
+		{4A1C11BF-4A1A-4E84-8A37-9F49F8A164B4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
